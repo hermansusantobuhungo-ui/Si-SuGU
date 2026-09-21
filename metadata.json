@@ -1,0 +1,6 @@
+{
+  "name": "Si-SuGu - Sistem Supervisi Guru MAN 2 Gorontalo",
+  "description": "Sistem Supervisi Guru (Si-SuGu) MAN 2 Kabupaten Gorontalo untuk supervisi administrasi perangkat pembelajaran dan supervisi proses pembelajaran di kelas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
